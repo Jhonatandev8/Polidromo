@@ -1,0 +1,15 @@
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\obj\Debug\net8.0\polidromos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\obj\Debug\net8.0\polidromos.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\obj\Debug\net8.0\polidromos.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\obj\Debug\net8.0\polidromos.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\obj\Debug\net8.0\polidromos.sourcelink.json
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\bin\Debug\net8.0\polidromos.exe
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\bin\Debug\net8.0\polidromos.deps.json
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\bin\Debug\net8.0\polidromos.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\bin\Debug\net8.0\polidromos.dll
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\bin\Debug\net8.0\polidromos.pdb
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\obj\Debug\net8.0\polidromos.dll
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\obj\Debug\net8.0\refint\polidromos.dll
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\obj\Debug\net8.0\polidromos.pdb
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\obj\Debug\net8.0\polidromos.genruntimeconfig.cache
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\polidromos\obj\Debug\net8.0\ref\polidromos.dll
